@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Cs2Int.Core</RootNamespace>
+    <AssemblyName>Cs2Int.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
